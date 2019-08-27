@@ -1,0 +1,19 @@
+.inputsousuo{
+    align-content: center;
+    border:1px solid rgb(41, 144, 255);
+    background-color: #ffffff;
+    color: #000000;
+    text-indent: 5px;
+    font-size: 15px;
+    width: 450px;
+    height: 30px;
+}
+.sousuobutton{
+    background-color: #2990ff;
+    color: #ffffff;
+    height: 35px;
+    width: 70px;
+}
+.kongxi{
+    padding-top: 30px;
+}

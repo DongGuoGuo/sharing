@@ -1,0 +1,54 @@
+/*圆形头像框*/
+.circleImg{
+    border-radius: 20px;
+    width:40px;
+    height: 40px;
+}
+
+.username{
+    color: #1900ff;
+    padding-right: 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width:160px;
+    height: 80px;
+}
+
+
+.zhanwei{
+    height: 30px;
+}
+/*logo标签*/
+.logo{
+    height:90px;
+    width:400px;
+}
+/*用户昵称显示*/
+.input1{
+    border:1px solid rgb(41, 144, 255);
+    background-color: #ffffff;
+    color: #000000;
+    text-indent: 5px;
+    font-family: 宋体;
+    font-size: 20px;
+    width: 400px;
+    height: 35px;
+}
+.button{
+    background-color: #2990ff;
+    color: #ffffff;
+    height: 35px;
+    width: 70px;
+}
+.input_sousuo{
+    align-content: center;
+    border:1px solid rgb(41, 144, 255);
+    background-color: #ffffff;
+    color: #000000;
+    text-indent: 5px;
+    font-size: 15px;
+    width: 450px;
+    height: 30px;
+}

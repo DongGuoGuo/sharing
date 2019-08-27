@@ -1,0 +1,42 @@
+.from{
+    align-content: center;
+}
+.input_div{
+    padding-top: 20px;
+
+}
+/*logo标签*/
+.logo{
+    height:200px;
+    width:700px;
+}
+.input_text{
+    align-content: center;
+    border:1px solid rgb(41, 144, 255);
+    background-color: #ffffff;
+    color: #000000;
+    text-indent: 5px;
+    font-size: 15px;
+    width: 250px;
+    height: 30px;
+}
+.input_lable{
+    font-size: 20px;
+    color: #000000;
+    height: 35px;
+    width: 70px;
+}
+.button{
+    height: 30px;
+    width: 50px;
+    font-size: 15px;
+}
+.font{
+    padding-top: 20px;
+    color: #2990ff;
+    font-size: 40px;
+    font-family: 隶书;
+}
+.hint{
+
+}
